@@ -57,8 +57,6 @@ This is a simple program that lets a user in writing down lots of open-source st
 
    ```bash
    cd path/to/your/scripts
-      ```bash
-   cd path/to/your/scripts
    ```
 
 4. Give execution permission  
